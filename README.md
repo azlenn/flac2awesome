@@ -1,6 +1,7 @@
 # flac2awesome
 
-**Turn stereo FLAC files into 5.1 surround for your AV receiver: DTS, lossless Dolby TrueHD
+**You have a home theater setup with multiple speakers in it ?
+If you do, turn your stereo FLAC files into 5.1 surround tracks, so that all speakers are used: DTS, lossless Dolby TrueHD
 or lossless 6-channel FLAC.**
 
 One self-contained script. Point it at a folder of `.flac` files and it creates 5.1 versions
