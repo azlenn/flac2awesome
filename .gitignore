@@ -1,0 +1,3 @@
+output/
+*.thd
+__pycache__/
